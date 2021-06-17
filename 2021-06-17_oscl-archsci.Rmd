@@ -158,14 +158,12 @@ class: center, middle
 
 ### R for Social Scientists
 
-Dates: 5-8 July  
-Time: 9.00-13.00  
-Location: Zoom
+**Dates:** 5-8 July  
+**Time:** 9.00-13.00  
+**Location:** Zoom
 
 https://leidenuniversitylibrary.github.io/2021-07-05-leiden-online/
 
 Feel free to tell your friends, but I would prefer if you tell your students...
 
-PhD students get credits
-
-Master's students get hours
+Students get credit for 18 hours
